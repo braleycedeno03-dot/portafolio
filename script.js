@@ -15,7 +15,6 @@ document.addEventListener("DOMContentLoaded", () => {
   mostrar();
 });
 
-// BOTÓN VOLVER ARRIBA
 const btnTop = document.getElementById("btnTop");
 
 window.addEventListener("scroll", () => {
